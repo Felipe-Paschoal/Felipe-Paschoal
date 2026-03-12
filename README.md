@@ -1,10 +1,8 @@
 # 👋 Olá, eu sou o Felipe Paschoal!
 
-Sou **desenvolvedor mobile** com foco principal em **React Native**, criando experiências digitais acessíveis, performáticas e bem estruturadas.
+  Desenvolvedor focado em **React Native**, com 3 anos de experiência no mercado financeiro (fintechs). O que me motiva de verdade é o desafio técnico de pegar um fluxo complexo e traduzi-lo em uma interface performática e acessível, transformando o design em uma experiência real e fluida para o usuário. 
 
-Tenho **2 anos de experiência no setor financeiro**, atuando de forma colaborativa com **times de design, produto e QA** para transformar ideias em soluções que realmente fazem sentido para quem usa.
-
-Embora minha especialidade seja o mobile, também tenho experiência com **interfaces web usando React**, o que me dá uma visão mais ampla da experiência do usuário em diferentes plataformas.
+  Acredito que o meu papel vai muito além de apenas 'bater requisito'. Mas sim entender a intenção do design e colaborar diretamente com os times de produto e QA para garantir que o resultado realmente faça sentido. Transito muito bem entre o mobile e o web com React. Meu foco é sempre evoluir a qualidade do que eu entrego enquanto cresço tecnicamente junto com o time. 
 
 ---
 
@@ -41,11 +39,9 @@ Embora minha especialidade seja o mobile, também tenho experiência com **inter
 
 # 🌍 Hello, I’m Felipe Paschoal!
 
-I'm a **mobile developer** mainly focused on **React Native**, crafting accessible, performant, and well-structured digital experiences.
-
-I have **2 years of experience in the financial sector**, collaborating closely with **design, product, and QA teams** to transform ideas into meaningful solutions for users.
-
-Although my main expertise is in mobile, I also have experience building **web interfaces with React**, giving me a broader perspective of the user experience across platforms.
+  Developer focused on **React Native**, with 3 years of experience in the financial market (fintechs). What truly motivates me is the technical challenge of taking a complex flow and translating it into a high-performance and accessible interface, transforming the design into a real and fluid user experience.
+  
+  I believe my role goes far beyond simply 'meeting requirements'. It's about understanding the design intent and collaborating directly with the product and QA teams to ensure the result truly makes sense. I'm very comfortable navigating between mobile and web using React. My focus is always on improving the quality of what I deliver while growing technically alongside the team.
 
 ---
 
