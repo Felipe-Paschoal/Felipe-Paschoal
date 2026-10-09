@@ -1,85 +1,106 @@
 # 👋 Olá, eu sou o Felipe Paschoal!
 
-Desenvolvedor focado em **React Native**, com cerca de **5 anos de experiência** no ecossistema mobile e atuação forte no mercado financeiro (fintechs). O que mais me motiva é transformar fluxos complexos em experiências performáticas, acessíveis e bem construídas, sempre buscando unir qualidade técnica com uma boa experiência para o usuário.
 
-Ao longo da minha trajetória, trabalhei com aplicações Android e iOS em produção, arquitetura frontend/mobile, design systems, acessibilidade, testes automatizados e processos de CI/CD. Também tenho experiência transitando entre mobile e web utilizando React, Next.js e Tailwind CSS, além de contato com backend utilizando FastAPI.
+Sou desenvolvedor de software, formado em **Análise e Desenvolvimento de Sistemas pela FATEC**, com quase **6 anos de experiência** na área, atuando em empresas do setor financeiro. Minha principal experiência é com **React Native e desenvolvimento mobile**, mas também venho expandindo meus conhecimentos para o **frontend web com React e Next.js.**
 
-Acredito que o papel do desenvolvedor vai muito além de apenas entregar funcionalidades. Gosto de entender o contexto do produto, colaborar com designers, PMs e QA e garantir que a solução final realmente faça sentido tanto tecnicamente quanto para o usuário final.
+Gosto de transformar problemas e fluxos complexos em aplicações intuitivas, acessíveis e bem construídas. Para mim, desenvolver não é só fazer uma funcionalidade funcionar: é pensar em **como as pessoas vão usar o produto**, como vão interagir com ele e como podemos tornar essa experiência mais simples e agradável.
 
-Meu foco é continuar evoluindo tecnicamente enquanto contribuo para construir produtos escaláveis, bem estruturados e de qualidade junto com o time.
+Essa preocupação apareceu até no meu TCC: investiguei se a biblioteca de componentes com o maior número de downloads também era a que oferecia componentes mais acessíveis. Afinal, popularidade e acessibilidade nem sempre são a mesma coisa!
 
----
-
-## O que eu valorizo:
-
-- Código limpo e bem estruturado
-- Componentização e escalabilidade
-- Testes automatizados confiáveis
-- Acessibilidade e experiência do usuário
-- Aprendizado contínuo
-- Crescimento conjunto com o time e o produto
+Atualmente, estou fortalecendo minha base em **desenvolvimento frontend web**. Quero aprofundar meus fundamentos, continuar evoluindo tecnicamente e contribuir para produtos que façam sentido tanto para quem os desenvolve quanto para quem os utiliza.
 
 ---
 
-## 🛠️ Tecnologias que utilizo:
+## 💡 O que me motiva
 
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)
-![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
-![Detox](https://img.shields.io/badge/Detox-6E40C9?style=for-the-badge)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+- 🧭 **Experiência do usuário:** interfaces intuitivas, interações consistentes e acessibilidade.
+- 🧹 **Qualidade de código:** código limpo, componentes reutilizáveis e arquitetura sustentável.
+- 🧪 **Confiabilidade:** testes automatizados e soluções que funcionam bem na prática.
+- 🤝 **Colaboração:** trocar conhecimento e trabalhar junto com pessoas de diferentes áreas.
+- 🌱 **Aprendizado contínuo:** fortalecer fundamentos, explorar ferramentas e continuar evoluindo.
 
 ---
 
-## 📫 Contato
+## 🛠️ Tecnologias e ferramentas
+
+### 📱 Mobile e frontend
+
+[![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactnative.dev/)
+[![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://react.dev/)
+[![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
+[![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)](https://nextjs.org/)
+[![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
+[![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)](https://expo.dev/)
+
+### 🧪 Testes e qualidade
+
+[![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)](https://jestjs.io/)
+[![Detox](https://img.shields.io/badge/Detox-6E40C9?style=for-the-badge)](https://wix.github.io/Detox/)
+
+### 🔧 Outras ferramentas
+
+[![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)](https://firebase.google.com/)
+
+---
+
+## 📬 Bora trocar uma ideia?
+
+Se quiser falar sobre desenvolvimento mobile, frontend, acessibilidade ou trocar experiências, pode me encontrar por aqui:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-fppaschoal-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fppaschoal/)
 [![Email](https://img.shields.io/badge/Gmail-felipepaschoal.dev@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:felipepaschoal.dev@gmail.com)
 
 ---
 
-# 🌍 Hello, I’m Felipe Paschoal!
+# 👋 Hello, I'm Felipe Paschoal!
 
-Developer focused on **React Native**, with around **5 years of experience** in the mobile ecosystem and strong experience in the financial market (fintechs). What motivates me the most is transforming complex flows into high-performance, accessible and well-crafted experiences, always combining technical quality with a great user experience.
+I'm a software developer with a degree in **Systems Analysis and Development from FATEC**, with almost **6 years of experience** in the field, working in companies within the financial sector. My main experience is with **React Native and mobile development**, but I have also been expanding my knowledge into **frontend web with React and Next.js.**
 
-Throughout my journey, I’ve worked on production Android and iOS applications, frontend/mobile architecture, design systems, accessibility, automated testing and CI/CD pipelines. I also have experience moving between mobile and web using React, Next.js and Tailwind CSS, in addition to backend experience with FastAPI.
+I enjoy transforming complex problems and workflows into intuitive, accessible, and well-built applications. For me, developing isn't just about making a feature work: it's about thinking about **how people will use the product**, how they will interact with it, and how we can make that experience simpler and more enjoyable.
 
-I believe a developer’s role goes far beyond simply delivering features. I enjoy understanding the product context, collaborating closely with designers, PMs and QA, and ensuring the final solution truly makes sense both technically and for the end user.
+This concern was even present in my **undergraduate thesis**: I investigated whether the component library with the highest number of downloads was also the one that offered the most accessible components. After all, popularity and accessibility are not always the same thing!
 
-My goal is to keep evolving technically while helping build scalable, maintainable and high-quality products alongside the team.
-
----
-
-## What I value:
-
-- Clean and well-structured code
-- Componentization and scalability
-- Reliable automated testing
-- Accessibility and user experience
-- Continuous learning
-- Growing alongside the team and the product
+Currently, I am strengthening my foundation in **web frontend development**. I want to deepen my fundamentals, continue evolving technically, and contribute to products that make sense both for those who develop them and for those who use them.
 
 ---
 
-## 🛠️ Technologies I work with:
+## 💡 What motivates me
 
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)
-![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
-![Detox](https://img.shields.io/badge/Detox-6E40C9?style=for-the-badge)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+- 🧭 **User experience:** intuitive interfaces, consistent interactions, and accessibility.
+- 🧹 **Code quality:** clean code, reusable components, and sustainable architecture.
+- 🧪 **Reliability:** automated tests and solutions that work well in practice.
+- 🤝 **Collaboration:** exchanging knowledge and working together with people from different areas.
+- 🌱 **Continuous learning:** strengthening fundamentals, exploring tools, and continuing to evolve.
 
 ---
 
-## 📫 Reach me at:
+## 🛠️ Technologies and tools
+
+### 📱 Mobile and frontend
+
+[![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactnative.dev/)
+[![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://react.dev/)
+[![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
+[![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)](https://nextjs.org/)
+[![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
+[![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)](https://expo.dev/)
+
+### 🧪 Testing and quality
+
+[![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)](https://jestjs.io/)
+[![Detox](https://img.shields.io/badge/Detox-6E40C9?style=for-the-badge)](https://wix.github.io/Detox/)
+
+### 🔧 Other tools
+
+[![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)](https://firebase.google.com/)
+
+---
+
+## 📬 Let's connect!
+
+If you want to talk about mobile development, frontend, accessibility, or exchange experiences, you can find me here:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-fppaschoal-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fppaschoal/)
 [![Email](https://img.shields.io/badge/Gmail-felipepaschoal.dev@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:felipepaschoal.dev@gmail.com)
+
+---
